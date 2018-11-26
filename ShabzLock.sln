@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShabzLock", "ShabzLock\ShabzLock.csproj", "{05C3F0C7-B4C2-4114-808B-1E7B2B43427D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C3F0C7-B4C2-4114-808B-1E7B2B43427D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C3F0C7-B4C2-4114-808B-1E7B2B43427D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C3F0C7-B4C2-4114-808B-1E7B2B43427D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C3F0C7-B4C2-4114-808B-1E7B2B43427D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {338EFB62-E1E8-4605-890C-2F509DBAB553}
+	EndGlobalSection
+EndGlobal
