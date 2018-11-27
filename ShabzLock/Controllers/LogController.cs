@@ -3,18 +3,32 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using ShabzLock.Model;
 
 namespace ShabzLock.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class LogController : ControllerBase
     {
-        // GET api/values
-        [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        private static List<Log> LogList = new List<Log>()
         {
-            return new string[] { "value1", "value2" };
+            new Log("Rasmus Dolmer", DateTime.Now, "Lock"),
+            new Log("Rasmus Dolmer", DateTime.Now, "Unlocked"),
+            new Log("Rasmus Dolmer", DateTime.Now, "Unlocked"),
+            new Log("Rasmus Dolmer", DateTime.Now, "Lock"),
+        };
+
+        // GET api/log
+        [HttpGet]
+        public List<Log> Get()
+        {
+            if (LogList != null)
+            {
+                return LogList;
+            }
+
+            return null;
         }
 
         // GET api/values/5

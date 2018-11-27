@@ -1,0 +1,14 @@
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\bin\Debug\netcoreapp2.1\ShabzLock.deps.json
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\bin\Debug\netcoreapp2.1\ShabzLock.runtimeconfig.json
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\bin\Debug\netcoreapp2.1\ShabzLock.runtimeconfig.dev.json
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\bin\Debug\netcoreapp2.1\ShabzLock.dll
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\bin\Debug\netcoreapp2.1\ShabzLock.pdb
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\obj\Debug\netcoreapp2.1\ShabzLock.csprojAssemblyReference.cache
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\obj\Debug\netcoreapp2.1\ShabzLock.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\obj\Debug\netcoreapp2.1\ShabzLock.RazorAssemblyInfo.cache
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\obj\Debug\netcoreapp2.1\ShabzLock.RazorAssemblyInfo.cs
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\obj\Debug\netcoreapp2.1\ShabzLock.AssemblyInfoInputs.cache
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\obj\Debug\netcoreapp2.1\ShabzLock.AssemblyInfo.cs
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\obj\Debug\netcoreapp2.1\ShabzLock.RazorTargetAssemblyInfo.cache
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\obj\Debug\netcoreapp2.1\ShabzLock.dll
+C:\Users\rasmu\Desktop\3. Semester\Shabz\Shabz\ShabzLock\obj\Debug\netcoreapp2.1\ShabzLock.pdb
